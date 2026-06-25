@@ -1,7 +1,7 @@
 # Muhammad Faizan
 
 **Digital Craftsman & Full Stack Developer**  
-*Building performant, responsive, and visually clean interfaces using the React ecosystem.*
+*Building elegant, component-driven interfaces and turning creative concepts into high-speed full-stack products.*
 
 ---
 
