@@ -76,26 +76,15 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 ### 🌐 Connect with Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      📍 <b>Location</b><br>
-      Pakistan
-    </td>
-    <td width="50%" valign="top">
-      📧 <b>Email</b><br>
-      <a href="mailto:bfaizi877@gmail.com">bfaizi877@gmail.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      💼 <b>LinkedIn</b><br>
-      <a href="https://linkedin.com" target="_blank">linkedin.com</a>
-    </td>
-    <td width="50%" valign="top">
-      🐙 <b>GitHub</b><br>
-      <a href="https://github.com/Faizan-Fr-Dev" target="_blank">github.com/Faizan-Fr-Dev</a>
-    </td>
-  </tr>
-</table>
+<pre>
+$ curl https://api.faizan.dev/contact
+
+{
+  "status": "available",
+  "location": "Pakistan",
+  "email": "<a href="mailto:bfaizi877@gmail.com">bfaizi877@gmail.com</a>",
+  "github": "<a href="https://github.com/Faizan-Fr-Dev" target="_blank">github.com/Faizan-Fr-Dev</a>",
+  "linkedin": "<a href="https://linkedin.com" target="_blank">linkedin.com</a>"
+}
+</pre>
 
