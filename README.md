@@ -5,7 +5,7 @@
 
 ---
 
-### 🏛️ Professional Summary
+### 💼 Professional Summary
 
 I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated to building elegant, component-driven interfaces and turning creative concepts into high-speed full-stack products, I focus on crafting responsive, clean frontends and connecting them to robust database layers.
 
