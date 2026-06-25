@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
-  <!-- Rounded dark background matching standard dev icon sheets -->
-  <rect width="46" height="46" x="1" y="1" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <!-- Railway track switch symbol -->
-  <path d="M18 12 V36" stroke="#f85572" stroke-width="4.5" stroke-linecap="round"/>
-  <path d="M18 24 C 24 24, 28 20, 32 12" fill="none" stroke="#f85572" stroke-width="4.5" stroke-linecap="round"/>
-</svg>
