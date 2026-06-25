@@ -20,16 +20,9 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,vite,git,github,vercel,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,mongodb,vite,git,github,vercel,vscode" alt="My Skills" />
   </a>
 </p>
-
-#### 📊 Tech Proficiency
-
-- ⚛️ **React.js** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░ 80%`
-- 🎨 **Tailwind CSS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `█████████░ 90%`
-- 💾 **MongoDB** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████░░░░ 60%`
-- 🟨 **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░ 80%`
 
 ---
 
