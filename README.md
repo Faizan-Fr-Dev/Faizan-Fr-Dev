@@ -40,7 +40,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
         </p>
       </td>
       <td width="45%" valign="middle" align="center">
-        <img src="https://images.unsplash.com/photo-1614680376593-902f74fa0d41?auto=format&fit=crop&w=600&q=80" alt="Soundly Preview" width="100%" style="border-radius: 6px;" />
+        <img src="./soundly-homepage.png" alt="Soundly Preview" width="100%" style="border-radius: 6px;" />
       </td>
     </tr>
   </table>
