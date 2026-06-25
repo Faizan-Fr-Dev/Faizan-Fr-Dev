@@ -127,24 +127,24 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
   <tr>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/Soundly-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Soundly-&theme=nord&hide_desc=true" alt="Soundly Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Soundly-&theme=nord&hide_description=true" alt="Soundly Card" />
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/SOLE-Footwear">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord&hide_desc=true" alt="SOLE Footwear Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord&hide_description=true" alt="SOLE Footwear Card" />
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/Nexus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Nexus&theme=nord&hide_desc=true" alt="Nexus Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Nexus&theme=nord&hide_description=true" alt="Nexus Card" />
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/what_ef">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=what_ef&theme=nord&hide_desc=true" alt="What EF Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=what_ef&theme=nord&hide_description=true" alt="What EF Card" />
       </a>
     </td>
   </tr>
