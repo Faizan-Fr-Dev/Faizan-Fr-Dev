@@ -20,8 +20,9 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,mongodb,vite,git,github,vercel,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,mongodb,railway,vite,git,github,vercel,vscode" alt="My Skills" />
   </a>
+  <img src="./antigravity-icon.svg" height="48" alt="Antigravity Logo" />
 </p>
 
 ---

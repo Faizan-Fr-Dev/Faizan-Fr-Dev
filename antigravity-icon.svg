@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Rounded dark background matching standard dev icon sheets -->
+  <rect width="46" height="46" x="1" y="1" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <!-- Glowing neon circle representing gravity/singularity -->
+  <circle cx="24" cy="24" r="12" fill="none" stroke="url(#gradient)" stroke-width="2.5" />
+  <!-- Stylized levitating 'A' logo representing Antigravity -->
+  <path d="M18 31 L24 16 L30 31" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M20 27 H28" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Floating particles -->
+  <circle cx="24" cy="11" r="1.5" fill="#88c0d0" />
+  <circle cx="15" cy="20" r="1" fill="#81a1c1" />
+  <circle cx="33" cy="28" r="1" fill="#81a1c1" />
+  
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#81a1c1" />
+      <stop offset="100%" stop-color="#b48ead" />
+    </linearGradient>
+  </defs>
+</svg>
