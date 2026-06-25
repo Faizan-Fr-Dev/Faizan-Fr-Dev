@@ -1,51 +1,81 @@
 # Faizan Butt
 
-**Software Engineer & Frontend Developer**  
-*Passionate about crafting high-performance, accessible, and visually stunning web experiences.*
+**Frontend Engineer & Web Developer**  
+*Building performant, responsive, and visually clean interfaces using the React ecosystem.*
 
 ---
 
-### 🏛️ Profile
+### 🏛️ Professional Summary
 
-I am a frontend developer specializing in building modern user interfaces using the **React.js** ecosystem. With a strong eye for design and a commitment to writing clean, maintainable code, I focus on delivering seamless digital experiences.
+I am a frontend developer dedicated to translating complex requirements into simple, elegant, and interactive web interfaces. I focus on semantic HTML, modern CSS styling systems (Tailwind CSS v4), and component-driven development with React.
 
-- 🔭 Currently refining my skills in **React 19** and modern styling architectures like **Tailwind CSS v4**.
-- ⚙️ Focused on performance optimization, responsive layouts, and clean routing architectures.
-- ✉️ Open to collaborations: **bfaizi877@gmail.com**
-
----
-
-### 💻 Technical Expertise
-
-- **Core Technologies:** JavaScript (ES6+), HTML5, CSS3
-- **Libraries & Frameworks:** React.js, React Router v7, Tailwind CSS v4, Axios, Bootstrap
-- **Tools & Workflows:** Git, GitHub, Vite, npm, Vercel, VS Code
+- 💻 Specialized in **React (v19)**, **Vite**, and **React Router DOM**.
+- 🎨 Committed to clean layouts, mobile-first design, and optimized performance.
+- ⚡ Always exploring new technologies to keep layouts fast and code maintainable.
+- ✉️ Open to professional inquiries: **bfaizi877@gmail.com**
 
 ---
 
-### 📂 Featured Projects
-
-*Below is a showcase of my featured projects. (Screenshots and live links coming soon!)*
-
-| Project | Description & Preview | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **GalleryApp** | A responsive, page-based photo gallery application integrated with the Lorem Picsum API. Features pagination and hover states. <br><br> *[Insert Screenshot Here]* | `React 19` `Tailwind CSS v4` `React Router v7` `Axios` | [GitHub](https://github.com/Faizan-Fr-Dev/GalleryApp) / [Live Demo](#) |
-| **Project Two** | *Description of your second project. Write a concise summary of its core utility and features.* <br><br> *[Insert Screenshot Here]* | `Tech 1` `Tech 2` `Tech 3` | [GitHub](#) / [Live Demo](#) |
-| **Project Three** | *Description of your third project. Write a concise summary of its core utility and features.* <br><br> *[Insert Screenshot Here]* | `Tech 1` `Tech 2` `Tech 3` | [GitHub](#) / [Live Demo](#) |
-
----
-
-### 📊 GitHub Metrics
+### 🛠️ Technical Stack
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=default" alt="Top Languages" height="150" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,vite,git,github,vercel,vscode" alt="My Skills" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 📂 Featured Showcase
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+        <h3 align="center">GalleryApp</h3>
+        <p align="center">
+          <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=600&q=80" alt="GalleryApp Preview" width="100%" style="border-radius: 6px;" />
+        </p>
+        <p>A responsive, page-based photo gallery application built with React 19, Tailwind CSS v4, and React Router DOM v7. Fetches and displays high-quality photography from the Lorem Picsum API dynamically using Axios.</p>
+        <br>
+        <p align="center">
+          <a href="https://github.com/Faizan-Fr-Dev/GalleryApp"><b>Codebase</b></a> &bull; <a href="#"><b>Live Demo</b></a>
+        </p>
+      </td>
+      <!-- Project 2 -->
+      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+        <h3 align="center">NotesApp</h3>
+        <p align="center">
+          <img src="https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=600&q=80" alt="NotesApp Preview" width="100%" style="border-radius: 6px;" />
+        </p>
+        <p>A lightweight client-side notes manager. Utilizes React state patterns for creating, searching, and managing sticky notes, with LocalStorage implementation for offline data persistence.</p>
+        <br>
+        <p align="center">
+          <a href="#"><b>Codebase</b></a> &bull; <a href="#"><b>Live Demo</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Stats & Contributions
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=nord" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect
+
+- **Location:** Pakistan
 - **Email:** [bfaizi877@gmail.com](mailto:bfaizi877@gmail.com)
 - **GitHub:** [@Faizan-Fr-Dev](https://github.com/Faizan-Fr-Dev)
-- **Location:** Pakistan
