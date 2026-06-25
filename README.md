@@ -124,11 +124,17 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 ### 📌 Pinned Repositories
 
 <p align="left">
-  <a href="https://github.com/Faizan-Fr-Dev/GalleryApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=GalleryApp&theme=nord" alt="GalleryApp Card" />
+  <a href="https://github.com/Faizan-Fr-Dev/SpotifyBackend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SpotifyBackend&theme=nord" alt="SpotifyBackend Card" />
   </a>
-  <a href="https://github.com/Faizan-Fr-Dev/Faizan-Fr-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Faizan-Fr-Dev&theme=nord" alt="Faizan-Fr-Dev Profile Card" />
+  <a href="https://github.com/Faizan-Fr-Dev/SOLE-Footwear">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord" alt="SOLE Footwear Card" />
+  </a>
+  <a href="https://github.com/Faizan-Fr-Dev/Nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Nexus&theme=nord" alt="Nexus Card" />
+  </a>
+  <a href="https://github.com/Faizan-Fr-Dev/what_ef">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=what_ef&theme=nord" alt="What EF Card" />
   </a>
 </p>
 
