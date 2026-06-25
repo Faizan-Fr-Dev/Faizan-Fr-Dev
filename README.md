@@ -111,3 +111,11 @@ $ curl https://api.faizan.dev/contact
 }
 </pre>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=88c0d0&height=60&section=footer" width="100%" alt="Footer Wave Separator" />
+  <br>
+  <sub>Designed & built with ❤️ by Faizan Butt &bull; © 2026</sub>
+</p>
+
