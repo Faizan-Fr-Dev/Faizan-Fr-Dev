@@ -24,88 +24,29 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ### 💻 Digital Showcase
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- Project 1: Soundly -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-        <h3 align="center">Soundly</h3>
-        <p align="center">
-          <img src="./screenshots/soundly.png" alt="Soundly Preview" width="100%" style="border-radius: 6px;" />
-        </p>
-        <p>A premium music and audio streaming web application. Features interactive audio playback, playlist management, responsive player dashboards, and structured audio data flow.</p>
-        <br>
-        <p align="center">
-          <a href="#"><b>Codebase</b></a> &bull; <a href="https://soundly-tan.vercel.app" target="_blank"><b>Live Demo</b></a>
-        </p>
-      </td>
-      <!-- Project 2: SOLE -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-        <h3 align="center">SOLE Footwear</h3>
-        <p align="center">
-          <img src="./screenshots/sole.png" alt="SOLE Footwear Preview" width="100%" style="border-radius: 6px;" />
-        </p>
-        <p>A high-end e-commerce platform specializing in footwear. Features responsive product grids, shopping cart management, user search, and interactive checkout systems.</p>
-        <br>
-        <p align="center">
-          <a href="#"><b>Codebase</b></a> &bull; <a href="#"><b>Live Demo</b></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <!-- Project 3: What EF -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-        <h3 align="center">What EF</h3>
-        <p align="center">
-          <img src="./screenshots/what_ef.png" alt="What EF Preview" width="100%" style="border-radius: 6px;" />
-        </p>
-        <p>A full-stack interactive web application built with a React frontend and Node.js backend. Handles data-heavy components, custom routing systems, and database queries.</p>
-        <br>
-        <p align="center">
-          <a href="#"><b>Codebase</b></a> &bull; <a href="#"><b>Live Demo</b></a>
-        </p>
-      </td>
-      <!-- Project 4: Nexus -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-        <h3 align="center">Nexus</h3>
-        <p align="center">
-          <img src="./screenshots/nexus.png" alt="Nexus Preview" width="100%" style="border-radius: 6px;" />
-        </p>
-        <p>A sleek software platform and collaborative space designed for team productivity. Integrates dashboard layouts, secure access layers, and dynamic UI panels.</p>
-        <br>
-        <p align="center">
-          <a href="#"><b>Codebase</b></a> &bull; <a href="#"><b>Live Demo</b></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <!-- Project 5: Saas -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-        <h3 align="center">SaaS Platform</h3>
-        <p align="center">
-          <img src="./screenshots/saas.png" alt="SaaS Platform Preview" width="100%" style="border-radius: 6px;" />
-        </p>
-        <p>A modern Software-as-a-Service web page. Built with responsive section grid columns, pricing calculator states, micro-animations, and client conversion panels.</p>
-        <br>
-        <p align="center">
-          <a href="#"><b>Codebase</b></a> &bull; <a href="#"><b>Live Demo</b></a>
-        </p>
-      </td>
-      <!-- Project 6: GalleryApp -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-        <h3 align="center">GalleryApp</h3>
-        <p align="center">
-          <img src="./screenshots/gallery.png" alt="GalleryApp Preview" width="100%" style="border-radius: 6px;" />
-        </p>
-        <p>A responsive, page-based photo gallery application built with React 19, Tailwind CSS v4, and React Router DOM v7. Fetches and renders high-quality photography dynamically from the Picsum API.</p>
-        <br>
-        <p align="center">
-          <a href="https://github.com/Faizan-Fr-Dev/GalleryApp"><b>Codebase</b></a> &bull; <a href="#"><b>Live Demo</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🎵 **Soundly** &mdash; A premium music and audio streaming web application. Features interactive audio playback, playlist management, and responsive player dashboards.
+  * *Tech Stack:* `React 19` &bull; `Tailwind CSS v4` &bull; `Vite`
+  * *Links:* [GitHub Codebase](#) / [Live Demo](https://soundly-tan.vercel.app)
+
+- 👟 **SOLE Footwear** &mdash; A high-end e-commerce platform specializing in footwear. Features responsive product grids, shopping cart management, and interactive checkout.
+  * *Tech Stack:* `React 19` &bull; `Tailwind CSS v4` &bull; `Vite`
+  * *Links:* [GitHub Codebase](#) / [Live Demo](#)
+
+- 🔍 **What EF** &mdash; A full-stack interactive web application built with a React frontend and Node.js backend. Handles data-heavy components and custom routing systems.
+  * *Tech Stack:* `React 19` &bull; `Tailwind CSS v4` &bull; `Node.js` &bull; `MongoDB`
+  * *Links:* [GitHub Codebase](#) / [Live Demo](#)
+
+- 💼 **Nexus** &mdash; A sleek software platform and collaborative space designed for team productivity. Integrates dashboard layouts and secure access layers.
+  * *Tech Stack:* `React 19` &bull; `Tailwind CSS v4` &bull; `Vite`
+  * *Links:* [GitHub Codebase](#) / [Live Demo](#)
+
+- 🚀 **SaaS Platform** &mdash; A modern Software-as-a-Service web page. Built with responsive section grid columns, pricing calculators, and conversion panels.
+  * *Tech Stack:* `React 19` &bull; `Tailwind CSS v4` &bull; `Framer Motion`
+  * *Links:* [GitHub Codebase](#) / [Live Demo](#)
+
+- 📸 **GalleryApp** &mdash; A responsive, page-based photo gallery application. Fetches photography from the Picsum API dynamically using Axios.
+  * *Tech Stack:* `React 19` &bull; `Tailwind CSS v4` &bull; `React Router v7` &bull; `Axios`
+  * *Links:* [GitHub Codebase](https://github.com/Faizan-Fr-Dev/GalleryApp) / [Live Demo](#)
 
 ---
 
