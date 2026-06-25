@@ -1,4 +1,4 @@
-# Faizan Butt
+# Muhammad Faizan
 
 **Frontend Engineer & Web Developer**  
 *Building performant, responsive, and visually clean interfaces using the React ecosystem.*
@@ -112,6 +112,6 @@ $ curl https://api.faizan.dev/contact
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=88c0d0&height=60&section=footer" width="100%" alt="Footer Wave Separator" />
   <br>
-  <sub>Designed & built with ❤️ by Faizan Butt &bull; © 2026</sub>
+  <sub>Designed & built with ❤️ by Muhammad Faizan &bull; © 2026</sub>
 </p>
 
