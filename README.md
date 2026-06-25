@@ -166,22 +166,15 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ### 📊 Stats & Contributions
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/aaron-simpson/github-readme-streak-stats">
-          <img src="https://streak-stats.demolab.com?user=Faizan-Fr-Dev&theme=nord" alt="Faizan's GitHub Streak" />
-        </a>
-      </td>
-      <td valign="top">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=nord" alt="Faizan's Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/aaron-simpson/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Faizan-Fr-Dev&theme=nord" alt="Faizan's GitHub Streak" />
+  </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=nord" alt="Faizan's Top Languages" />
+  </a>
+</p>
 
 ---
 
