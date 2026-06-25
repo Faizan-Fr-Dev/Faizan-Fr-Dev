@@ -51,13 +51,13 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
   <table border="0" width="100%">
     <tr>
       <td width="45%" valign="middle" align="center">
-        <img src="./sole-homepage.png" alt="SOLE Footwear Preview" width="100%" style="border-radius: 6px;" />
+        <img src="./sole-homepage-v2.png" alt="SOLE Footwear Preview" width="100%" style="border-radius: 6px;" />
       </td>
       <td width="55%" valign="middle" align="left" style="padding-left: 20px;">
         <h3>👟 SOLE Footwear — E-Commerce Platform</h3>
         <p>A high-end e-commerce platform specializing in footwear. Features responsive product grids, shopping cart management, user search, and interactive checkout systems.</p>
         <p>
-          <code>HTML</code> &bull; <code>CSS</code> &bull; <code>Three.js</code> &bull; <code>MongoDB</code> &bull; <code>Node.js</code>
+          <code>HTML</code> &bull; <code>CSS</code> &bull; <code>JavaScript</code> &bull; <code>Three.js</code> &bull; <code>MongoDB</code> &bull; <code>Node.js</code>
         </p>
         <p>
           <a href="#"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
