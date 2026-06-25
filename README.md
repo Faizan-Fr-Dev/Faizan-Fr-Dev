@@ -152,12 +152,14 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ---
 
-### 📊 Contribution Calendar
+### 🎮 Contribution Snake
 
 <p align="left">
-  <a href="https://github.com/Faizan-Fr-Dev">
-    <img src="https://gh-heat.anishroy.com/api/Faizan-Fr-Dev/svg?darkMode=true&transparent=true" alt="Faizan's GitHub Contributions Chart" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faizan-Fr-Dev/Faizan-Fr-Dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faizan-Fr-Dev/Faizan-Fr-Dev/output/github-contribution-grid-snake.svg" />
+    <img alt="Faizan's Contribution Snake" src="https://raw.githubusercontent.com/Faizan-Fr-Dev/Faizan-Fr-Dev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
