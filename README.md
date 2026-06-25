@@ -75,14 +75,14 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
         <h3>🚀 What EF — Full-Stack Web Application</h3>
         <p>A full-stack interactive web application built with a React frontend and Node.js backend. Handles data-heavy components, custom routing systems, and database queries.</p>
         <p>
-          <code>React 19</code> &bull; <code>Tailwind CSS v4</code> &bull; <code>Node.js</code> &bull; <code>MongoDB</code>
+          <code>React JS</code> &bull; <code>Tailwind CSS</code> &bull; <code>SQLite</code> &bull; <code>Node.js</code>
         </p>
         <p>
           <a href="#"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
         </p>
       </td>
       <td width="45%" valign="middle" align="center">
-        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" alt="What EF Preview" width="100%" style="border-radius: 6px;" />
+        <img src="./whatef-homepage.png" alt="What EF Preview" width="100%" style="border-radius: 6px;" />
       </td>
     </tr>
   </table>
