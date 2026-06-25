@@ -183,7 +183,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
     <tr>
       <td colspan="2" align="center" valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=transparent&hide_border=true" alt="Faizan's Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&theme=transparent&hide_border=true" alt="Faizan's Top Languages" width="450" />
         </a>
       </td>
     </tr>
