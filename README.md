@@ -12,7 +12,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
 * **Frontend Stack:** React 19, Tailwind CSS v4, JavaScript (ES6+), Vite, and React Router DOM.
 * **Backend Stack:** Node.js and MongoDB.
 * **My Focus:** Writing reusable components, styling fluid responsive grids, and managing data flows.
-* **Inquiries:** Open to collaborations, freelance projects, and developer roles at [bfaizi877@gmail.com](mailto:bfaizi877@gmail.com)
+* **Inquiries:** Open to collaborations, freelance projects, and developer roles at [buttzan1234@gmail.com](mailto:buttzan1234@gmail.com)
 
 ---
 
@@ -200,7 +200,7 @@ $ curl https://api.faizan.dev/contact
 {
   "status": "available",
   "location": "Lahore, Pakistan",
-  "email": "<a href="mailto:bfaizi877@gmail.com">bfaizi877@gmail.com</a>",
+  "email": "<a href="mailto:buttzan1234@gmail.com">buttzan1234@gmail.com</a>",
   "github": "<a href="https://github.com/Faizan-Fr-Dev" target="_blank">github.com/Faizan-Fr-Dev</a>",
   "linkedin": "<a href="https://linkedin.com" target="_blank">linkedin.com</a>"
 }
