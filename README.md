@@ -9,10 +9,10 @@
 
 I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated to building elegant, component-driven interfaces and turning creative concepts into high-speed full-stack products, I focus on crafting responsive, clean frontends and connecting them to robust database layers.
 
-* 💻 **Frontend Stack:** React 19, Tailwind CSS v4, JavaScript (ES6+), Vite, and React Router DOM.
-* 💾 **Backend Stack:** Node.js and MongoDB.
-* 🎯 **My Focus:** Writing reusable components, styling fluid responsive grids, and managing data flows.
-* ✉️ **Inquiries:** Open to collaborations, freelance projects, and developer roles at [bfaizi877@gmail.com](mailto:bfaizi877@gmail.com)
+* **Frontend Stack:** React 19, Tailwind CSS v4, JavaScript (ES6+), Vite, and React Router DOM.
+* **Backend Stack:** Node.js and MongoDB.
+* **My Focus:** Writing reusable components, styling fluid responsive grids, and managing data flows.
+* **Inquiries:** Open to collaborations, freelance projects, and developer roles at [bfaizi877@gmail.com](mailto:bfaizi877@gmail.com)
 
 ---
 
@@ -22,7 +22,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ---
 
-### 🛠️ Project Portfolio
+### 💻 Digital Showcase
 
 <div align="center">
   <table border="0">
