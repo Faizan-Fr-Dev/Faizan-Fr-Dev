@@ -22,7 +22,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ---
 
-### 📂 Featured Showcase
+### 🛠️ Project Portfolio
 
 <div align="center">
   <table border="0">
