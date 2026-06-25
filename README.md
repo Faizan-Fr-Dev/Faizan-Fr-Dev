@@ -123,20 +123,32 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ### 📌 Pinned Repositories
 
-<p align="left">
-  <a href="https://github.com/Faizan-Fr-Dev/Soundly-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Soundly-&theme=nord" alt="Soundly Card" />
-  </a>
-  <a href="https://github.com/Faizan-Fr-Dev/SOLE-Footwear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord" alt="SOLE Footwear Card" />
-  </a>
-  <a href="https://github.com/Faizan-Fr-Dev/Nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Nexus&theme=nord" alt="Nexus Card" />
-  </a>
-  <a href="https://github.com/Faizan-Fr-Dev/what_ef">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=what_ef&theme=nord" alt="What EF Card" />
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/Faizan-Fr-Dev/Soundly-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Soundly-&theme=nord" alt="Soundly Card" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Faizan-Fr-Dev/SOLE-Footwear">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord" alt="SOLE Footwear Card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Faizan-Fr-Dev/Nexus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Nexus&theme=nord" alt="Nexus Card" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Faizan-Fr-Dev/what_ef">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=what_ef&theme=nord" alt="What EF Card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
