@@ -166,15 +166,29 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ### 📊 Stats & Contributions
 
-<p align="center">
-  <a href="https://github.com/aaron-simpson/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Faizan-Fr-Dev&theme=nord" alt="Faizan's GitHub Streak" />
-  </a>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=nord" alt="Faizan's Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="Faizan's GitHub Stats" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/aaron-simpson/github-readme-streak-stats">
+          <img src="https://streak-stats.demolab.com?user=Faizan-Fr-Dev&theme=nord&background=0000&hide_border=true" alt="Faizan's GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=transparent&hide_border=true" alt="Faizan's Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
