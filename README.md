@@ -18,7 +18,7 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 ### 🛠️ Technical Stack
 
-<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,mongodb,vite,git,github,vercel,vscode" alt="My Skills" /></a><img src="./antigravity-icon.svg" height="48" alt="Antigravity Logo" /></p>
+<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,mongodb,vite,git,github,vercel,vscode" alt="My Skills" /></a>&nbsp;<img src="./antigravity-icon.svg" height="48" alt="Antigravity Logo" /></p>
 
 ---
 
