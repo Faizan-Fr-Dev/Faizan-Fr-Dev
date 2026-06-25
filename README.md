@@ -24,6 +24,13 @@ I am a frontend developer dedicated to translating complex requirements into sim
   </a>
 </p>
 
+#### 📊 Tech Proficiency
+
+- ⚛️ **React.js** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░ 80%`
+- 🎨 **Tailwind CSS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `█████████░ 90%`
+- 💾 **MongoDB** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████░░░░ 60%`
+- 🟨 **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░ 80%`
+
 ---
 
 ### 📂 Featured Showcase
