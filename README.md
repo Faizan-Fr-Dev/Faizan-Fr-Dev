@@ -61,6 +61,19 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 ---
 
+### 📌 Pinned Repositories
+
+<p align="left">
+  <a href="https://github.com/Faizan-Fr-Dev/GalleryApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=GalleryApp&theme=nord" alt="GalleryApp Card" />
+  </a>
+  <a href="https://github.com/Faizan-Fr-Dev/Faizan-Fr-Dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Faizan-Fr-Dev&theme=nord" alt="Faizan-Fr-Dev Profile Card" />
+  </a>
+</p>
+
+---
+
 ### 📊 Contribution Calendar
 
 <p align="left">
