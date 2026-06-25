@@ -36,11 +36,11 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
           <code>React JS</code> &bull; <code>Tailwind CSS</code> &bull; <code>Node.js</code> &bull; <code>MongoDB</code>
         </p>
         <p>
-          <a href="#"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://soundly-tan.vercel.app" target="_blank"><b>Live Demo</b></a>
+          <a href="https://github.com/Faizan-Fr-Dev/Soundly-" target="_blank"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://soundly-production-7322.up.railway.app/" target="_blank"><b>Live Demo</b></a>
         </p>
       </td>
       <td width="45%" valign="middle" align="center">
-        <img src="./soundly-homepage.png" alt="Soundly Preview" width="100%" style="border-radius: 6px;" />
+        <img src="./soundly-homepage-v2.png" alt="Soundly Preview" width="100%" style="border-radius: 6px;" />
       </td>
     </tr>
   </table>
