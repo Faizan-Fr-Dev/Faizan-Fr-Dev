@@ -60,7 +60,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
           <code>HTML</code> &bull; <code>CSS</code> &bull; <code>JavaScript</code> &bull; <code>Three.js</code> &bull; <code>MongoDB</code> &bull; <code>Node.js</code>
         </p>
         <p>
-          <a href="#"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
+          <a href="https://github.com/Faizan-Fr-Dev/Sole-Footwear" target="_blank"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://sole-footwear-production.up.railway.app/" target="_blank"><b>Live Demo</b></a>
         </p>
       </td>
     </tr>
