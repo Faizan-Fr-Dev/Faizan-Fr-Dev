@@ -209,7 +209,7 @@ $ curl https://api.faizan.dev/contact
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ladvace/Ladvace/main/images/mario.gif" width="600" alt="Mario Footer Animation" />
+  <img src="./footer-wave.svg" width="100%" alt="Footer Wave Separator" />
   <br><br>
   <sub>Designed & built with ❤️ by Muhammad Faizan &bull; © 2026</sub>
 </p>
