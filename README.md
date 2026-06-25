@@ -209,7 +209,7 @@ $ curl https://api.faizan.dev/contact
 ---
 
 <p align="center">
-  <img src="./footer-wave.svg" width="100%" alt="Footer Wave Separator" />
+  <img src="./footer-wave.svg" height="40" width="100%" alt="Footer Wave Separator" />
   <br><br>
   <sub>Designed & built with ❤️ by Muhammad Faizan &bull; © 2026</sub>
 </p>
