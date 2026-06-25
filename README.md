@@ -209,8 +209,8 @@ $ curl https://api.faizan.dev/contact
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=88c0d0&height=60&section=footer" width="100%" alt="Footer Wave Separator" />
-  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b82fe5-c322-48cd-8d54-f3ec9f53e60e.gif" width="600" alt="Pac-Man Footer Animation" />
+  <br><br>
   <sub>Designed & built with ❤️ by Muhammad Faizan &bull; © 2026</sub>
 </p>
 
