@@ -152,7 +152,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 
 ---
 
-### 🎮 Contribution Snake
+### 👾 Commit Arcade
 
 <p align="left">
   <picture>
