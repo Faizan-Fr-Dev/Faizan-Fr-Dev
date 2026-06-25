@@ -77,15 +77,9 @@ I am a frontend developer dedicated to translating complex requirements into sim
 ### 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Pakistan-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <a href="mailto:bfaizi877@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bfaizi877%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Faizan-Fr-Dev">
-    <img src="https://img.shields.io/badge/GitHub-Faizan--Fr--Dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  📍 <b>Location:</b> Pakistan &nbsp;&bull;&nbsp;
+  📧 <b>Email:</b> <a href="mailto:bfaizi877@gmail.com">bfaizi877@gmail.com</a> &nbsp;&bull;&nbsp;
+  💼 <b>LinkedIn:</b> <a href="https://linkedin.com" target="_blank">linkedin.com</a> &nbsp;&bull;&nbsp;
+  🐙 <b>GitHub:</b> <a href="https://github.com/Faizan-Fr-Dev" target="_blank">github.com/Faizan-Fr-Dev</a>
 </p>
 
