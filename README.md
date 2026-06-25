@@ -129,26 +129,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
     </tr>
   </table>
 
-  <br><br>
 
-  <!-- Project 6: GalleryApp -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="45%" valign="middle" align="center">
-        <img src="https://images.unsplash.com/photo-1452780212940-6f5c0d14d848?auto=format&fit=crop&w=600&q=80" alt="GalleryApp Preview" width="100%" style="border-radius: 6px;" />
-      </td>
-      <td width="55%" valign="middle" align="left" style="padding-left: 20px;">
-        <h3>🖼️ GalleryApp — Dynamic Photo Showcase</h3>
-        <p>A responsive, page-based photo gallery application built with React 19, Tailwind CSS v4, and React Router DOM v7. Fetches and renders photography dynamically from the Picsum API.</p>
-        <p>
-          <code>React 19</code> &bull; <code>Tailwind CSS v4</code> &bull; <code>React Router v7</code> &bull; <code>Axios</code>
-        </p>
-        <p>
-          <a href="https://github.com/Faizan-Fr-Dev/GalleryApp"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
 
 </div>
 
