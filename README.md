@@ -224,7 +224,7 @@ $ curl https://api.faizan.dev/contact
   "location": "Lahore, Pakistan",
   "email": "<a href="mailto:buttzan1234@gmail.com">buttzan1234@gmail.com</a>",
   "github": "<a href="https://github.com/Faizan-Fr-Dev" target="_blank">github.com/Faizan-Fr-Dev</a>",
-  "linkedin": "<a href="https://linkedin.com" target="_blank">linkedin.com</a>"
+  "linkedin": "<a href="https://www.linkedin.com/in/muhammad-faizan-a45b6b3a1/" target="_blank">linkedin.com/in/muhammad-faizan</a>"
 }
 </pre>
 
