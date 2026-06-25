@@ -7,12 +7,12 @@
 
 ### 🏛️ Professional Summary
 
-I am a frontend developer dedicated to translating complex requirements into simple, elegant, and interactive web interfaces. I focus on semantic HTML, modern CSS styling systems (Tailwind CSS v4), and component-driven development with React.
+As a digital craftsman, I architect high-fidelity web applications that balance pixel-perfect frontend aesthetics with robust, end-to-end full-stack infrastructure. I specialize in engineering highly performant, responsive interfaces and integrating them with optimized database layers.
 
-- 💻 Specialized in **React (v19)**, **Vite**, and **React Router DOM**.
-- 🎨 Committed to clean layouts, mobile-first design, and optimized performance.
-- ⚡ Always exploring new technologies to keep layouts fast and code maintainable.
-- ✉️ Open to professional inquiries: **bfaizi877@gmail.com**
+* 💻 **Frontend Technologies:** Engineering modern, responsive interfaces using **React 19**, **Tailwind CSS v4**, and **Vite**.
+* 💾 **Backend Technologies:** Structuring data schemas and implementing secure, reliable data storage/API layers using **MongoDB**.
+* ⚡ **Performance & UX:** Crafting responsive layouts optimized for fast rendering, web accessibility, and seamless mobile compatibility.
+* 💬 **Let's Connect:** Open to engineering opportunities, consulting, or full-time roles: [bfaizi877@gmail.com](mailto:bfaizi877@gmail.com)
 
 ---
 
