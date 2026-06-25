@@ -33,7 +33,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
         <h3>🎵 Soundly — Audio Streaming Platform</h3>
         <p>A premium music and audio streaming web application. Features interactive audio playback, playlist management, responsive player dashboards, and structured audio data flow.</p>
         <p>
-          <code>React 19</code> &bull; <code>Tailwind CSS v4</code> &bull; <code>Vite</code>
+          <code>React JS</code> &bull; <code>Tailwind CSS</code> &bull; <code>Node.js</code> &bull; <code>MongoDB</code>
         </p>
         <p>
           <a href="#"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://soundly-tan.vercel.app" target="_blank"><b>Live Demo</b></a>
