@@ -65,7 +65,7 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=nord" alt="Top Languages" />
