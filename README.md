@@ -7,7 +7,7 @@
 
 ### 💼 Professional Summary
 
-I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated to building elegant, component-driven interfaces and turning creative concepts into high-speed full-stack products, I focus on crafting responsive, clean frontends and connecting them to robust database layers.
+I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. Dedicated to building elegant, component-driven interfaces and turning creative concepts into high-speed full-stack products, I focus on crafting responsive, clean frontends and connecting them to robust database layers.
 
 * **Frontend Stack:** React 19, Tailwind CSS v4, JavaScript (ES6+), Vite, and React Router DOM.
 * **Backend Stack:** Node.js and MongoDB.
@@ -199,7 +199,7 @@ $ curl https://api.faizan.dev/contact
 
 {
   "status": "available",
-  "location": "Pakistan",
+  "location": "Lahore, Pakistan",
   "email": "<a href="mailto:bfaizi877@gmail.com">bfaizi877@gmail.com</a>",
   "github": "<a href="https://github.com/Faizan-Fr-Dev" target="_blank">github.com/Faizan-Fr-Dev</a>",
   "linkedin": "<a href="https://linkedin.com" target="_blank">linkedin.com</a>"
