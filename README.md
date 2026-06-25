@@ -93,13 +93,13 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
   <table border="0" width="100%">
     <tr>
       <td width="45%" valign="middle" align="center">
-        <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80" alt="Nexus Preview" width="100%" style="border-radius: 6px;" />
+        <img src="./nexus-homepage.png" alt="Nexus Preview" width="100%" style="border-radius: 6px;" />
       </td>
       <td width="55%" valign="middle" align="left" style="padding-left: 20px;">
         <h3>💼 Nexus — Team Productivity Hub</h3>
         <p>A sleek software platform and collaborative space designed for team productivity. Integrates dashboard layouts, secure access layers, and dynamic UI panels.</p>
         <p>
-          <code>React 19</code> &bull; <code>Tailwind CSS v4</code> &bull; <code>Vite</code>
+          <code>React JS</code> &bull; <code>Tailwind CSS</code>
         </p>
         <p>
           <a href="#"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
