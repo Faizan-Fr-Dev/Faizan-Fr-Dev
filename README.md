@@ -61,10 +61,11 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 ---
 
-### ⚡ Recent Activity
+### 📊 Contribution Calendar
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="left">
+  <img src="https://ghchart.rshah.org/Faizan-Fr-Dev" alt="Faizan's GitHub Contributions Chart" />
+</p>
 
 ---
 
