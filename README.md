@@ -64,7 +64,9 @@ I am a frontend developer dedicated to translating complex requirements into sim
 ### 📊 Contribution Calendar
 
 <p align="left">
-  <img src="https://gh-heat.anishroy.com/api/Faizan-Fr-Dev/svg?darkMode=true&transparent=true" alt="Faizan's GitHub Contributions Chart" />
+  <a href="https://github.com/Faizan-Fr-Dev">
+    <img src="https://gh-heat.anishroy.com/api/Faizan-Fr-Dev/svg?darkMode=true&transparent=true" alt="Faizan's GitHub Contributions Chart" />
+  </a>
 </p>
 
 ---
