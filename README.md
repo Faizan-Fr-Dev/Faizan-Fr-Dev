@@ -7,12 +7,12 @@
 
 ### 🏛️ Professional Summary
 
-As a digital craftsman, I architect high-fidelity web applications that balance pixel-perfect frontend aesthetics with robust, end-to-end full-stack infrastructure. I specialize in engineering highly performant, responsive interfaces and integrating them with optimized database layers.
+I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated to building elegant, component-driven interfaces and turning creative concepts into high-speed full-stack products, I focus on crafting responsive, clean frontends and connecting them to robust database layers.
 
-* 💻 **Frontend Technologies:** Engineering modern, responsive interfaces using **React 19**, **Tailwind CSS v4**, and **Vite**.
-* 💾 **Backend Technologies:** Structuring data schemas and implementing secure, reliable data storage/API layers using **MongoDB**.
-* ⚡ **Performance & UX:** Crafting responsive layouts optimized for fast rendering, web accessibility, and seamless mobile compatibility.
-* 💬 **Let's Connect:** Open to engineering opportunities, consulting, or full-time roles: [bfaizi877@gmail.com](mailto:bfaizi877@gmail.com)
+* 💻 **Frontend Stack:** React 19, Tailwind CSS v4, JavaScript (ES6+), Vite, and React Router DOM.
+* 💾 **Backend Stack:** Node.js and MongoDB.
+* 🎯 **My Focus:** Writing reusable components, styling fluid responsive grids, and managing data flows.
+* ✉️ **Inquiries:** Open to collaborations, freelance projects, and developer roles at [bfaizi877@gmail.com](mailto:bfaizi877@gmail.com)
 
 ---
 
