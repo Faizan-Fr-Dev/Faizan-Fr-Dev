@@ -61,6 +61,13 @@ I am a frontend developer dedicated to translating complex requirements into sim
 
 ---
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📊 Stats & Contributions
 
 <p align="left">
