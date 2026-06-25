@@ -124,8 +124,8 @@ I am a **Digital Craftsman & Full Stack Developer** based in Pakistan. Dedicated
 ### 📌 Pinned Repositories
 
 <p align="left">
-  <a href="https://github.com/Faizan-Fr-Dev/SpotifyBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SpotifyBackend&theme=nord" alt="SpotifyBackend Card" />
+  <a href="https://github.com/Faizan-Fr-Dev/Soundly-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Soundly-&theme=nord" alt="Soundly Card" />
   </a>
   <a href="https://github.com/Faizan-Fr-Dev/SOLE-Footwear">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord" alt="SOLE Footwear Card" />
