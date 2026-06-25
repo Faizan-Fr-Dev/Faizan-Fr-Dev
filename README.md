@@ -1,6 +1,6 @@
 # Muhammad Faizan
 
-**Frontend Engineer & Web Developer**  
+**Digital Craftsman & Full Stack Developer**  
 *Building performant, responsive, and visually clean interfaces using the React ecosystem.*
 
 ---
