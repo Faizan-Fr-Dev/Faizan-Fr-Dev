@@ -36,7 +36,9 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
           <code>React JS</code> &bull; <code>Tailwind CSS</code> &bull; <code>Node.js</code> &bull; <code>MongoDB</code>
         </p>
         <p>
-          <a href="https://github.com/Faizan-Fr-Dev/Soundly-" target="_blank"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://soundly-production-7322.up.railway.app/" target="_blank"><b>Live Site</b></a>
+          <a href="https://github.com/Faizan-Fr-Dev/Soundly-" target="_blank"><img src="https://img.shields.io/badge/Codebase-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="Codebase" /></a>
+          &nbsp;&nbsp;
+          <a href="https://soundly-production-7322.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-81A1C1?style=for-the-badge&logo=googlechrome&logoColor=ECEFF4" alt="Live Site" /></a>
         </p>
       </td>
       <td width="45%" valign="middle" align="center">
@@ -60,7 +62,9 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
           <code>HTML</code> &bull; <code>CSS</code> &bull; <code>JavaScript</code> &bull; <code>Three.js</code> &bull; <code>MongoDB</code> &bull; <code>Node.js</code>
         </p>
         <p>
-          <a href="https://github.com/Faizan-Fr-Dev/Sole-Footwear" target="_blank"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://sole-footwear-production.up.railway.app/" target="_blank"><b>Live Site</b></a>
+          <a href="https://github.com/Faizan-Fr-Dev/Sole-Footwear" target="_blank"><img src="https://img.shields.io/badge/Codebase-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="Codebase" /></a>
+          &nbsp;&nbsp;
+          <a href="https://sole-footwear-production.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-81A1C1?style=for-the-badge&logo=googlechrome&logoColor=ECEFF4" alt="Live Site" /></a>
         </p>
       </td>
     </tr>
@@ -78,7 +82,9 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
           <code>React JS</code> &bull; <code>Tailwind CSS</code> &bull; <code>SQLite</code> &bull; <code>Node.js</code>
         </p>
         <p>
-          <a href="https://github.com/Faizan-Fr-Dev/what_ef" target="_blank"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://what-ef-43uj.vercel.app/" target="_blank"><b>Live Site</b></a>
+          <a href="https://github.com/Faizan-Fr-Dev/what_ef" target="_blank"><img src="https://img.shields.io/badge/Codebase-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="Codebase" /></a>
+          &nbsp;&nbsp;
+          <a href="https://what-ef-43uj.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-81A1C1?style=for-the-badge&logo=googlechrome&logoColor=ECEFF4" alt="Live Site" /></a>
         </p>
       </td>
       <td width="45%" valign="middle" align="center">
@@ -102,7 +108,9 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
           <code>React JS</code> &bull; <code>Tailwind CSS</code>
         </p>
         <p>
-          <a href="https://github.com/Faizan-Fr-Dev/Nexus" target="_blank"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="https://nexus-henna-eight.vercel.app/" target="_blank"><b>Live Site</b></a>
+          <a href="https://github.com/Faizan-Fr-Dev/Nexus" target="_blank"><img src="https://img.shields.io/badge/Codebase-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="Codebase" /></a>
+          &nbsp;&nbsp;
+          <a href="https://nexus-henna-eight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-81A1C1?style=for-the-badge&logo=googlechrome&logoColor=ECEFF4" alt="Live Site" /></a>
         </p>
       </td>
     </tr>
@@ -120,7 +128,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
           <code>React JS</code> &bull; <code>Tailwind CSS</code>
         </p>
         <p>
-          <a href="https://github.com/Faizan-Fr-Dev/SAAS" target="_blank"><b>Codebase</b></a>
+          <a href="https://github.com/Faizan-Fr-Dev/SAAS" target="_blank"><img src="https://img.shields.io/badge/Codebase-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="Codebase" /></a>
         </p>
       </td>
       <td width="45%" valign="middle" align="center">
