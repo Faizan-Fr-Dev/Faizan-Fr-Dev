@@ -117,14 +117,14 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
         <h3>📊 SaaS Platform — Conversion Landing Page</h3>
         <p>A modern Software-as-a-Service web page. Built with responsive section grid columns, pricing calculator states, micro-animations, and client conversion panels.</p>
         <p>
-          <code>React 19</code> &bull; <code>Tailwind CSS v4</code> &bull; <code>Framer Motion</code>
+          <code>React JS</code> &bull; <code>Tailwind CSS</code>
         </p>
         <p>
           <a href="#"><b>Codebase</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
         </p>
       </td>
       <td width="45%" valign="middle" align="center">
-        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80" alt="SaaS Platform Preview" width="100%" style="border-radius: 6px;" />
+        <img src="./saas-homepage.png" alt="SaaS Platform Preview" width="100%" style="border-radius: 6px;" />
       </td>
     </tr>
   </table>
