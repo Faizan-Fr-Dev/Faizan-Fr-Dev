@@ -149,24 +149,24 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
   <tr>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/Soundly-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Soundly-&theme=nord&description_lines_count=0" alt="Soundly Card" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Soundly-&theme=nord&description_lines_count=0" alt="Soundly Card" />
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/SOLE-Footwear">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord&description_lines_count=0" alt="SOLE Footwear Card" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=SOLE-Footwear&theme=nord&description_lines_count=0" alt="SOLE Footwear Card" />
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/Nexus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Nexus&theme=nord&description_lines_count=0" alt="Nexus Card" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=Nexus&theme=nord&description_lines_count=0" alt="Nexus Card" />
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/Faizan-Fr-Dev/what_ef">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=what_ef&theme=nord&description_lines_count=0" alt="What EF Card" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Faizan-Fr-Dev&repo=what_ef&theme=nord&description_lines_count=0" alt="What EF Card" />
       </a>
     </td>
   </tr>
@@ -193,7 +193,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
     <tr>
       <td valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="Faizan's GitHub Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="Faizan's GitHub Stats" />
         </a>
       </td>
       <td valign="top">
@@ -205,7 +205,7 @@ I am a **Digital Craftsman & Full Stack Developer** based in Lahore, Pakistan. D
     <tr>
       <td colspan="2" align="center" valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&theme=transparent&hide_border=true" alt="Faizan's Top Languages" width="450" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&theme=transparent&hide_border=true" alt="Faizan's Top Languages" width="450" />
         </a>
       </td>
     </tr>
